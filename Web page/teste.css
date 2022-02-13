@@ -1,0 +1,143 @@
+body {
+    background-color:  white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0rem;
+    font-size: 1rem;
+    line-height: 1,5px;
+    width: 10
+    0%;
+
+}
+    
+.topico{
+    margin: 2rem;
+}
+.topico h2 {
+    border-bottom: 5px solid black;
+}
+
+.topico--enfase {
+    font-weight: lighter;
+}
+
+.cabeca {
+    text-align: center;
+}
+
+.topico__slogan {
+    display: inline-block;
+    font-size: 4em;
+    padding: 2rem;
+    margin-top: 1rem;
+    
+}
+.topico div{
+    margin: 2rem;
+}
+.sobre__img {
+    background-color: whitesmoke;
+    float: right;
+    width: 11rem;
+}
+.historia__img{
+    background-color: whitesmoke;
+    float: left;
+    width: 11rem;
+    margin: 1rem;
+}
+.cabeca__logo {
+    display: inline-block;
+    text-align: center;
+    width: 16rem;
+}
+.identidade__img {
+    width: 100%;
+}
+.identidade__figura {
+    float: left;
+    width: 29rem;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 0rem;
+}
+.historia {
+    width: 55%;
+    display: inline-block;
+}
+.cadastro input {
+    width: 250px;
+}
+.cadastro {
+    background-color: rgba(104, 103, 87, 0.974);
+    display: inline-block;
+    width: 25%;
+    height: 26rem;
+    float: right;
+    margin-bottom: 0%;
+    padding: 3rem;
+    border-style: ridge;
+    border-color: bisque;
+    
+}
+
+.cadastro--centralizar{
+    text-align: center;
+}
+
+.cadastro--sublinhado {
+    text-decoration: underline;
+}
+
+.cadastro label {
+    display: inline-block;
+    margin: 5px;
+    font-size: larger;
+    font-weight: bold;
+
+}
+
+.cadastro__botao {
+    display: inline;
+    text-align: center;
+}
+
+.cadastro__texto {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left: 0rem;
+    margin-right: 0rem;
+    margin-top: 0rem;
+}
+
+.contato h2 {
+    margin-top: 6rem;
+}
+
+.correspondencia {
+    display: inline-block;
+}
+
+.tel {
+    display: inline-block;
+}
+
+.footer {
+    background-color: rgb(16, 28, 28);
+    text-align: center;
+    height: 8rem;
+    margin: 0%;
+    color: aliceblue;
+}
+.footer__logo {
+    width: 9rem;
+    height: 6rem;
+    display: inline-block;
+}
+.footer__nome{
+    padding: 3px;
+    padding-bottom: 0px;
+    display: inline;
+    margin: 0%;
+}
